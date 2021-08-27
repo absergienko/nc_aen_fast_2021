@@ -3,7 +3,7 @@ This repository contains codebooks for noncoherent transmission over Rayleigh fa
 
 These results are presented in the following paper:
 
-Alexander B. Sergienko, Polina V. Apalina, "Design of Codebooks Optimized for Noncoherent Transmission over Fast Fading Channel," submitted to Globecom 2021.
+Alexander B. Sergienko, Polina V. Apalina, "Design of Codebooks Optimized for Noncoherent Transmission over Fast Fading Channel," submitted to Redundancy 2021.
 
 The codebooks are presented in two formats: as MATLAB data files (`*.mat`, folder `MAT`) and as ASCII files (`*.txt`, folder `ASCII`)
 
