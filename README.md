@@ -5,6 +5,10 @@ These results are presented in the following paper:
 
 A. B. Sergienko and P. V. Apalina, "Design of Codebooks Optimized for Noncoherent Transmission over Fast Fading Channel," 2021 XVII International Symposium "Problems of Redundancy in Information and Control Systems" (REDUNDANCY), 2021, pp. 5-10, doi: 10.1109/REDUNDANCY52534.2021.9606452.
 
+In the folders `MAT_2026` and `ASCII_2026`, updated versions of these codebooks are stored, obtained for the following paper:
+
+П. В. Апалина, А. Б. Сергиенко. "Некогерентный прием в условиях рэлеевского канала с быстрыми замираниями", Известия вузов России. Радиоэлектроника, 2026 (в печати). (P. V. Apalina and A. B. Sergienko. "Noncoherent Reception in Fast Fading Rayleigh channel", Proc. Higher Educational Institutions of Russia, Radioelectronics Series. 2026. To be published, In Russian)
+
 The codebooks are presented in two formats: as MATLAB data files (`*.mat`, folder `MAT`) and as ASCII files (`*.txt`, folder `ASCII`)
 
 File names have the following form: `cb_n*_M*`
